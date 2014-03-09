@@ -2,5 +2,7 @@
   "name": "Shaker",
   "version": "0.2.0",
   "main": "Shaker.js",
-  "dependencies": {}
+  "dependencies": {
+      "jquery": "*"
+  }
 }
